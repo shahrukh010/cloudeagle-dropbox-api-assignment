@@ -1,4 +1,4 @@
-# CloudEagle — Dropbox Business API Assignment (Java 8 + Maven)
+# Dropbox Business API Assignment (Java 8 + Maven)
 
 ## Prerequisites
 - Java 8 (JDK 1.8)
